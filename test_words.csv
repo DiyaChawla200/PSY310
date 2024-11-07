@@ -1,0 +1,21 @@
+test_words,reference,cond
+v_s_,vase,prime
+t_g_r,tiger,prime
+b_ _k,book,prime
+c_s_i_n,cushion,prime
+_ia_o,piano,prime
+b_o_tl_,bottle,prime
+l_p_o_,laptop,prime
+_en,pen,prime
+c_ll_g_,college,prime
+_o_k,cook,prime
+p_o_e,phone,non-prime
+t_le_or_,teleport,non-prime
+_oa_d,board,non-prime
+n_il_,nails,non-prime
+cl_c_,clock,non-prime
+s_o_,shoe,non-prime
+c_m_r_,camera,non-prime
+_en_uin,penguin,non-prime
+sc_o_l,school,non-prime
+_p_on,spoon,non-prime
